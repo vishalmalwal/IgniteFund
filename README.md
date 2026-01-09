@@ -81,8 +81,8 @@ A full-stack crowdfunding platform built with the MERN stack (MongoDB, Express, 
 
 ### Full-stack project to demonstrate proficiency in:
 
--MERN stack development
--Third-party API integrations (Google OAuth, Razorpay, PhonePe)
--Secure authentication and environment management
--Responsive UI design
--Debugging and optimizing complex applications
+- MERN stack development
+- Third-party API integrations (Google OAuth, Razorpay, PhonePe)
+- Secure authentication and environment management
+- Responsive UI design
+- Debugging and optimizing complex applications
