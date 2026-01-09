@@ -77,7 +77,6 @@ A full-stack crowdfunding platform built with the MERN stack (MongoDB, Express, 
    npm run dev
    ```
 
-🌟 About
 Personal full-stack project to demonstrate proficiency in:
 
 MERN stack development
